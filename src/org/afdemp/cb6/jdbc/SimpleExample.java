@@ -18,7 +18,7 @@ public class SimpleExample {
     public static void main(String[] args) {
         
         try {
-            
+            System.out.println("in try catch");
             //If the driver does not support JDBC 4.0
             //we need to initialize the driver using the 
             //following:
